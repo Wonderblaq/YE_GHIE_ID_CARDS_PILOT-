@@ -1,2 +1,0 @@
-# send emails to senders
-
