@@ -14,6 +14,7 @@ import schedule
 
 # === Load Members ===
 csv_path = r"C:\Users\DellAdmin\Desktop\ye_ghie_members.csv"
+
 df = pd.read_csv(csv_path)
 
 # Clean up columns
