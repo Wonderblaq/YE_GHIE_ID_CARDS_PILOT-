@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50208b3e-12b9-42f4-bac6-46573aca3f7a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/id_generator_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/id_generator_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/emails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="50208b3e-12b9-42f4-bac6-46573aca3f7a" name="Changes" comment="New column added to the dataframe to mark sent for members who's id has being issued, another package called scheduler and timer implemented to generate and send cards to members within some time interval" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New column added to the dataframe to mark sent for members who's id has being issued, another package called scheduler and timer implemented to generate and send cards to members within some time interval" />
+    <option name="LAST_COMMIT_MESSAGE" value="New column added to the dataframe to mark sent for members who's id has being issued, another package called scheduler and timer implemented to generate and send cards to members within some time interval" />
   </component>
 </project>
